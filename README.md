@@ -5,9 +5,8 @@
 - Enhanced coding practices and architecture design, fostering continuous learning and skill development in web development technologies.
 
 ## Technical Skills
-- Frontend Development:
-  HTML
-  - CSS (SCSS)
+- ### Frontend Development:
+  HTML | CSS (SCSS)
   - JavaScript (ES6+)
   - TypeScript
   - React
