@@ -6,12 +6,38 @@
 
 ## Technical Skills
 - Frontend Development:
-  - HTML • CSS (SCSS) • JavaScript (ES6+) • TypeScript • React • Redux • Next.js • Tailwind CSS • Material UI
+  - HTML
+  - CSS (SCSS)
+  - JavaScript (ES6+)
+  - TypeScript
+  - React
+  - Redux
+  - Next.js
+  - Tailwind CSS
+  - Material UI
 - Backend Development:
-  - Node.js (Express.js) • SQL (MySQL) • Java • HTTP • PHP
+  - Node.js (Express.js)
+  - SQL (MySQL)
+  - Java
+  - HTTP
+  - PHP
 - UI/UX Design:
-  - Figma • Wireframing • Prototyping • User Research • Usability Testing
+  - Figma
+  - Wireframing
+  - Prototyping
+  - User Research
+  - Usability Testing
 - Tools:
-  - Git • SourceTree • GitHub • XAMPP • Visual Studio Code • Vite • npm • JWT • Firebase • REST API
+  - Git
+  - SourceTree
+  - GitHub
+  - XAMPP
+  - Visual Studio Code
+  - Vite
+  - npm
+  - JWT
+  - Firebase
+  - REST API
 - Methodologies:
-  - Agile • SCRUM
+  - Agile
+  - SCRUM
