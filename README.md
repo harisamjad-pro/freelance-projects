@@ -6,7 +6,7 @@
 
 ## Technical Skills
 - Frontend Development:
-  - HTML
+  HTML
   - CSS (SCSS)
   - JavaScript (ES6+)
   - TypeScript
